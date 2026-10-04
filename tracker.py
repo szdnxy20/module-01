@@ -1,3 +1,7 @@
+# Module 0 · Laboratory 1 · Installment 1
+# Author: Sydney Manuel
+# A landing page for a personal expense tracker.
+
 print("=" * 40)
 print("  EXPENSE TRACKER")
 print("  Know where your money goes.")
